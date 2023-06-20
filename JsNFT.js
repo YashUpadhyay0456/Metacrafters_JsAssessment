@@ -53,6 +53,7 @@ function listNFTs () {
     }
 }
 
+
 // print the total number of NFTs we have minted to the console
 function getTotalSupply() {
     console.log("\n"+myNFT.length);
